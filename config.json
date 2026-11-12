@@ -1,5 +1,11 @@
 {
-  "mod_name": "Town Of Us",
-  "repo": "eDonnes124/Town-Of-Us-R",
-  "asset_keyword": ""
+  "mod_name": "Town Of Us: Mira",
+  "repo": "AU-Avengers/TOU-Mira",
+  "asset_keyword": "steam",
+  "release_tag": "",
+  "include_prereleases": true,
+  "extras_repo": "Desben13/among-us-mods",
+  "extras_path": "",
+  "extras_branch": "main",
+  "extras_extensions": [".dll"]
 }
